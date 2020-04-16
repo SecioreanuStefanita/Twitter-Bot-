@@ -1,0 +1,16 @@
+{
+  "name": "secioreanu-stefanita-weather-bot",
+  "version": "1.0.0",
+  "description": "A node.js bot with some functionalities",
+  "main": "bot.js",
+  "scripts": {
+    "start":"node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Secioreanu Ionel Stefanita",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}

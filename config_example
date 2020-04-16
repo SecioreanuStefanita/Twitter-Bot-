@@ -1,0 +1,13 @@
+module.exports = {
+  // twitter api configs
+  consumer_key:         '....',
+  consumer_secret:      '....',
+  access_token:         '....',
+  access_token_secret:  '....',
+    
+// open weather map api configs
+  apiLink: 'http://api.openweathermap.org/data/2.5/weather?q=',
+  city: 'Your city name here....',
+  appID: ['&appid=','Your api id here....'],
+  units: ['&units=','metric']
+}
